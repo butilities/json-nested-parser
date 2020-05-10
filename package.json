@@ -1,5 +1,5 @@
 {
-  "name": "json-nested-parse",
+  "name": "json-nested-parser",
   "version": "1.0.0",
   "description": "Parser for nested JSON",
   "main": "index.js",
