@@ -12,7 +12,7 @@
     "parser"
   ],
   "author": "butilities",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "is-valid-json": "^1.0.2",
     "traverse": "^0.6.6"
